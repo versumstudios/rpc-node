@@ -1,5 +1,5 @@
 {
-  "name": "rpc-node",
+  "name": "@versum/rpc-node",
   "version": "1.0.0",
   "description": "full list of rpc nodes",
   "main": "index.js",
