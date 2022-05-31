@@ -1,18 +1,18 @@
 exports.mainnet = [
-  "https://mainnet.api.tez.ie",
-  "https://mainnet.smartpy.io",
-  "https://rpc.tzbeta.net",
-  "https://mainnet-tezos.giganode.io",
-  "https://mainnet.tezos.marigold.dev",
-  "https://rpc-mainnet.ateza.io",
-  "https://eu01-node.teztools.net",
-  "https://rpc.tzkt.io/mainnet",
+  "mainnet.api.tez.ie",
+  "mainnet.smartpy.io",
+  "rpc.tzbeta.net",
+  "mainnet-tezos.giganode.io",
+  "mainnet.tezos.marigold.dev",
+  "rpc-mainnet.ateza.io",
+  "eu01-node.teztools.net",
+  "rpc.tzkt.io/mainnet",
 ]
 
 exports.hangzhounet = [
-  "https://hangzhounet.api.tez.ie",
-  "https://hangzhounet.smartpy.io",
-  "https://testnet-tezos.giganode.io",
-  "https://rpc-testnet-one.ateza.io",
-  "https://rpc.tzkt.io/hangzhou2net",
+  "hangzhounet.api.tez.ie",
+  "hangzhounet.smartpy.io",
+  "testnet-tezos.giganode.io",
+  "rpc-testnet-one.ateza.io",
+  "rpc.tzkt.io/hangzhou2net",
 ]
