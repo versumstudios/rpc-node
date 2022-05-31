@@ -1,0 +1,17 @@
+{
+  "name": "rpc-node",
+  "version": "1.0.0",
+  "description": "full list of rpc nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"&&exit 1"
+  },
+  "keywords": [
+    "rpc",
+    "tezos",
+    "mainnet",
+    "hangzhounet"
+  ],
+  "author": "versumstudios",
+  "license": "ISC"
+}
