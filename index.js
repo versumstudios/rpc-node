@@ -13,3 +13,16 @@ exports.hangzhounet = [
   "rpc-testnet-one.ateza.io",
   "rpc.tzkt.io/hangzhou2net",
 ]
+
+exports.kathmandunet = [
+  "https://kathmandunet.smartpy.io/",
+]
+
+exports.limanet = [
+  "https://limanet.ecadinfra.com",
+]
+
+exports.ghostnet = [
+  "https://ghostnet.ecadinfra.com",
+  "https://ghostnet.tezos.marigold.dev/",
+]
