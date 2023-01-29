@@ -1,6 +1,6 @@
 {
   "name": "@versumstudios/rpc-node",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "full list of rpc nodes",
   "main": "index.js",
   "repository": {
