@@ -9,7 +9,6 @@ exports.mainnet = [
 exports.hangzhounet = [
   "hangzhounet.api.tez.ie",
   "hangzhounet.smartpy.io",
-  "rpc-testnet-one.ateza.io",
   "rpc.tzkt.io/hangzhou2net",
 ]
 
