@@ -2,7 +2,6 @@ exports.mainnet = [
   "mainnet.api.tez.ie",
   "mainnet.smartpy.io",
   "rpc.tzbeta.net",
-  "eu01-node.teztools.net",
   "rpc.tzkt.io/mainnet",
 ]
 
